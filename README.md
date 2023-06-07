@@ -1,2 +1,2 @@
-# AppliedParallelProgramming
+# Applied Parallel Programming
 Parallel Programming
