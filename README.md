@@ -1,5 +1,6 @@
 # Group-6 Applied Parallel Programming
 Parallel Programming
+- File cuối cùng ở trong `Group06_19127630_19127592_19127587` 
 
 # <span style="color:blue">Meeting 01</span>.
 
